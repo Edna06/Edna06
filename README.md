@@ -1,7 +1,7 @@
 
 <div> 
 <h1 align="left" dir="auto">
-  <a id="user-content-olá--eu-sou-a-Edna" class="anchor" arial-hidden="true" href="https://github.com/Edna06">
+  <a id="meu-linkedin" class="anchor" arial-hidden="true" href="https://www.linkedin.com/in/edna-maria-51b35176/">
     <svg class="oction oction-link" 
     viewBox="0 0 16 16"   
     widht="16"
