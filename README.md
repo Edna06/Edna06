@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Edna06
+👋 Hi, I’m @Edna06
 
-
-* I'm studying <em>HTML, CSS and JavaScript<em>.  
-
+<ul>
+  <li>I'm studying <strong>HTML, CSS </strong> and <strong>JavaScript</strong>.</li>
+</ul>
 
