@@ -1,5 +1,6 @@
 
-# Hi, I’m Edna 👋
+# 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0073CE&size=42&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Edna;I+have+24+years;I'm+a+Web+developer+in+training;Welcome+to+my+profile+👋)](https://git.io/typing-svg) 
 
 
 ## 🚀 I'm always studying HTML, CSS, JavaScript and Git.
