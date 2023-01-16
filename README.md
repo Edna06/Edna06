@@ -1,7 +1,5 @@
 
-# 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0073CE&size=42&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Edna;I+have+24+years;I'm+a+Web+developer+in+training;Welcome+to+my+profile+👋)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=35&duration=4000&pause=900&color=F75D8AB6&width=700&lines=Hi%2C+I'm+Edna;I+have+24+years;I'm+a+Web+developer+in+training;Welcome+to+my+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## 🚀 I'm always studying HTML, CSS, JavaScript and Git.
 
