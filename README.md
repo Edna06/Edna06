@@ -1,7 +1,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&weight=800&size=35&duration=4000&pause=900&color=F75D8AB6&width=700&lines=Hi%2C+I'm+Edna;I+have+24+years;I'm+a+Web+developer+in+training;Welcome+to+my+profile!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-## 🚀 I'm always studying HTML, CSS, JavaScript and Git.
+#### About 
+I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://app.rocketseat.com.br/me/edna-maria-farias-moreira-01327).
+
+#### Current stack 
+
+- :zap: Main language: 'JavaScript'
+- :globe_with_meridians: Backend: 'Nodejs'
+- :tada: Frontend: 'HTML5', 'CSS3', 'Javascript'
+- :art: Layout Design: 'Figma'
+- :package: Version code control: 'Git & Github'
+- :wrench: Tools: 'VsCode'
 
                                
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edna&color=orange" alt="Profile views" />  </p>
