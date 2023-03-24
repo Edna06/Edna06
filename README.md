@@ -8,7 +8,7 @@ I'm a Web Developer. And, I'm studying web developer at [Rocketseat](https://app
 
 - :zap: Main language: 'JavaScript'
 - :globe_with_meridians: Backend: 'Nodejs'
-- :tada: Frontend: 'HTML5', 'CSS3', 'Javascript'
+- :tada: Frontend: 'HTML5', 'CSS3', 'Javascript', 'Reacjs'
 - :art: Layout Design: 'Figma'
 - :package: Version code control: 'Git & Github'
 - :wrench: Tools: 'VsCode'
